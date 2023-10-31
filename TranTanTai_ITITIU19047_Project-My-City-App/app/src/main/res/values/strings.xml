@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Flavors of Miami</string>
+
+    <string name="category_church">Pagoda</string>
+    <string name="category_wedding">Wedding</string>
+    <string name="category_hotel">Hotel</string>
+    <string name="recommendation_details">Details</string>
+
+    <string name="chua_buu_long">Chùa Bửu Long</string>
+    <string name="chua_buu_long_description">Chùa Bửu Long là một ngôi chùa nằm ở quận 9, Thành phố Hồ Chí Minh. Ngôi chùa được xây dựng vào năm 1942, với kiến trúc mang đậm phong cách Phật giáo Thái Lan. Chùa Bửu Long là một trong những ngôi chùa đẹp nhất ở Thành phố Hồ Chí Minh, với nhiều công trình kiến trúc độc đáo như bảo tháp cao 72 mét, tượng Phật Thích Ca bằng đồng cao 27 mét, và vườn hoa được chăm sóc tỉ mỉ.</string>
+    <string name="chua_giac_lam">Chùa Giác Lâm</string>
+    <string name="chua_giac_lam_description">Chùa Giác Lâm là một ngôi chùa nằm ở quận Tân Bình, Thành phố Hồ Chí Minh. Ngôi chùa được xây dựng vào năm 1744, là một trong những ngôi chùa cổ nhất ở thành phố. Chùa Giác Lâm mang đậm kiến trúc thời Nguyễn, với nhiều công trình kiến trúc cổ kính như chánh điện, nhà tổ, và tháp chuông.</string>
+    <string name="chua_vinh_nghiem">Chùa Vĩnh Nghiêm</string>
+    <string name="chua_vinh_nghiem_description">Chùa Vĩnh Nghiêm là một ngôi chùa nằm ở quận 3, Thành phố Hồ Chí Minh. Ngôi chùa được xây dựng vào năm 1958, với kiến trúc mang đậm phong cách Phật giáo Việt Nam. Chùa Vĩnh Nghiêm là một trong những trung tâm Phật giáo lớn nhất ở Thành phố Hồ Chí Minh, với nhiều hoạt động Phật sự phong phú.</string>
+
+    <string name="wedding_1_title">White Palace</string>
+    <string name="wedding_1_description">White Palace là một trung tâm tiệc cưới sang trọng nằm ở quận Phú Nhuận, Thành phố Hồ Chí Minh. Trung tâm có 7 sảnh tiệc với sức chứa từ 200 đến 2.500 khách, được trang trí theo phong cách hoàng gia châu Âu. White Palace là địa điểm tổ chức tiệc cưới được nhiều cặp đôi lựa chọn, bởi không gian sang trọng, đẳng cấp và dịch vụ chuyên nghiệp.</string>
+    <string name="wedding_2_title">Diamond Place</string>
+    <string name="wedding_2_description">Diamond Place là một trung tâm tiệc cưới lớn và nổi tiếng nằm ở quận Tân Bình, Thành phố Hồ Chí Minh. Trung tâm có 2 chi nhánh, mỗi chi nhánh có 5 sảnh tiệc với sức chứa từ 200 đến 2.500 khách. Diamond Place được trang trí theo phong cách hiện đại, sang trọng và có nhiều tiện ích hiện đại.</string>
+    <string name="wedding_3_title">Capella Parkview</string>
+    <string name="wedding_3_description">Capella Parkview là một trung tâm tiệc cưới sang trọng nằm ở quận Bình Thạnh, Thành phố Hồ Chí Minh. Trung tâm có 3 sảnh tiệc với sức chứa từ 200 đến 1.000 khách, được trang trí theo phong cách châu Âu thanh lịch. Capella Parkview là địa điểm tổ chức tiệc cưới được nhiều cặp đôi lựa chọn, bởi không gian ấm cúng, lãng mạn và dịch vụ chu đáo.</string>
+
+    <string name="hotel_1_title">The Reverie Saigon</string>
+    <string name="hotel_1_description">The Reverie Saigon là một khách sạn sang trọng 5 sao nằm ở trung tâm thành phố Hồ Chí Minh. Khách sạn có 286 phòng và suite, được trang trí theo phong cách cổ điển sang trọng. The Reverie Saigon cung cấp nhiều tiện nghi và dịch vụ cao cấp, bao gồm hồ bơi ngoài trời, spa, nhà hàng và quầy bar.</string>
+    <string name="hotel_2_title">Park Hyatt Saigon</string>
+    <string name="hotel_2_description">Park Hyatt Saigon là một khách sạn sang trọng 5 sao nằm trên đường Lam Sơn, Thành phố Hồ Chí Minh. Khách sạn có 254 phòng và suite, được trang trí theo phong cách hiện đại. Park Hyatt Saigon cung cấp nhiều tiện nghi và dịch vụ cao cấp, bao gồm hồ bơi ngoài trời, spa, nhà hàng và quầy bar.</string>
+    <string name="hotel_3_title">Caravelle Saigon</string>
+    <string name="hotel_3_description">Caravelle Saigon là một khách sạn sang trọng 5 sao nằm ở trung tâm thành phố Hồ Chí Minh. Khách sạn có 384 phòng và suite, được trang trí theo phong cách cổ điển. Caravelle Saigon cung cấp nhiều tiện nghi và dịch vụ cao cấp, bao gồm hồ bơi ngoài trời, spa, nhà hàng và quầy bar.</string>
+</resources>
